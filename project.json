@@ -1,0 +1,23 @@
+{
+    "projectName": "MultiAttributeLogin",
+    "description": "multi attribute login supported ",
+    "type": "community",
+    "author": "imShakil",
+    "version": "0.0.1",
+    "authorWebsite": "https://github.com/rizarsyi/refactored-memory",
+    "githubUri": "https://github.com/rizarsyi/refactored-memory",
+    "license": "apache-2.0",
+    "lastUpdated": "1701134476125",
+    "tags": [
+        "jans",
+        "community",
+        "authentication"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "": {},
+        "agama.pw": {},
+        "reset.pw": {}
+    },
+    "name": "MultiAttributeLogin"
+}
